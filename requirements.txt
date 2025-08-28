@@ -1,0 +1,8 @@
+streamlit
+boto3
+pillow
+python-docx
+PyMuPDF
+docx
+python-dotenv
+transformers>=4.0.0   # optional; zero-shot classification if available

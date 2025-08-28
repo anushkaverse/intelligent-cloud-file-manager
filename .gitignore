@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+*.pkl
+
+# Streamlit uploads (optional)
+uploads/
+organized/
+
+# OS files
+.DS_Store
+Thumbs.db
