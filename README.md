@@ -175,19 +175,5 @@ Developed by Anushka Sharma – happy file organizing!
 
 ```
 
----
-
-This **one file** includes:  
-- Project overview  
-- Features  
-- Installation instructions  
-- AWS integration info  
-- Folder organization explanation  
-- Dependencies  
-- Security notes  
-- Demo tips  
-- License  
-
----
 
 
