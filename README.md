@@ -24,13 +24,15 @@ No more messy desktops or folder chaos — everything is structured and accessib
 ## 🧠 How it Works
 
 1️⃣ **Upload your files** – documents, spreadsheets, presentations, images, anything!  
+
 2️⃣ **AI Classification** – the system scans your file names and content to categorize them:  
    - 📊 Financial  
    - 🖼️ Photos  
    - 📝 Work & Notes  
    - 🍳 Food & Recipes  
    - ✈️ Travel  
-   - …and more!  
+   - …and more!
+     
 3️⃣ **File Management** – effortlessly manage your files:  
    - 🖥️ **Save to Desktop** in organized folders automatically  
    - 🗑️ **Delete** files with one click  
@@ -172,6 +174,7 @@ This project is licensed under the **MIT License** – see [LICENSE](LICENSE) fo
 ## 👋 Author
 
 Developed by Anushka Sharma – happy file organizing!
+
 
 
 
