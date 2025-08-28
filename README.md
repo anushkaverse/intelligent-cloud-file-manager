@@ -86,7 +86,7 @@ streamlit run app.py
   * **Bucket Name**
   * **Access Key ID**
   * **Secret Access Key**
-  * **Region (optional)**
+  * **Region**
 
 > ⚠️ **Security Tip:** Never share your credentials or include them in the code. Users must provide their own.
 
@@ -171,7 +171,7 @@ This project is licensed under the **MIT License** – see [LICENSE](LICENSE) fo
 
 ## 👋 Author
 
-Developed by **Your Name** – happy file organizing!
+Developed by Anushka Sharma – happy file organizing!
 
 ```
 
@@ -189,4 +189,5 @@ This **one file** includes:
 - License  
 
 ---
+
 
