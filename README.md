@@ -163,7 +163,8 @@ This project is licensed under the **MIT License** – see [LICENSE](LICENSE) fo
 
 ## 👋 Author
 
-Developed by Anushka Sharma – happy file organizing!
+Developed by **Anushka Sharma** – happy file organizing!
+
 
 
 
