@@ -122,7 +122,7 @@ Desktop/
 * [boto3](https://boto3.amazonaws.com/)
 * [python-dotenv](https://pypi.org/project/python-dotenv/)
 * [Pillow](https://pypi.org/project/Pillow/)
-* [transformers](https://huggingface.co/transformers/) (optional for zero-shot classification)
+* [transformers](https://huggingface.co/transformers/) 
 * [python-docx](https://pypi.org/project/python-docx/)
 * [PyMuPDF](https://pypi.org/project/PyMuPDF/)
 
@@ -164,6 +164,7 @@ This project is licensed under the **MIT License** – see [LICENSE](LICENSE) fo
 ## 👋 Author
 
 Developed by **Anushka Sharma** – happy file organizing!
+
 
 
 
