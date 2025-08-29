@@ -154,12 +154,14 @@ st.markdown(
     🧠 **How it works – The AI Magic Behind Your Files**  
 
     1️⃣ Upload your files – documents, spreadsheets, presentations, images, anything!  
+    
     2️⃣ Our smart AI scans and classifies them into neat folders automatically:  
        - Financial  
        - Photos  
        - Personal  
        - Misc  
        - …and more!  
+       
     3️⃣ Manage your files effortlessly:  
        - **Save to Desktop** in organized folders  
        - **Delete** with one click  
@@ -168,4 +170,5 @@ st.markdown(
     ⚡ **No more clutter, no more stress – just smart, organized storage!**
     """
 )
+
 
