@@ -155,18 +155,17 @@ st.markdown(
 
     1️⃣ Upload your files – documents, spreadsheets, presentations, images, anything!  
     2️⃣ Our smart AI scans and classifies them into neat folders automatically:  
-       - 📊 Financial  
-       - 🖼️ Photos  
-       - 📝 Work & Notes  
-       - 🍳 Food & Recipes  
-       - ✈️ Travel  
+       - Financial  
+       - Photos  
+       - Personal  
+       - Misc  
        - …and more!  
     3️⃣ Manage your files effortlessly:  
-       - 💾 **Download** files instantly  
-       - 🖥️ **Save to Desktop** in organized folders  
-       - 🗑️ **Delete** with one click  
-       - ☁️ **Upload to your own S3 bucket** securely  
+       - **Save to Desktop** in organized folders  
+       - **Delete** with one click  
+       - **Upload to your own S3 bucket** securely  
 
     ⚡ **No more clutter, no more stress – just smart, organized storage!**
     """
 )
+
