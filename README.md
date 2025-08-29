@@ -55,7 +55,7 @@ No more messy desktops or folder chaos — everything is structured and accessib
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/<your-username>/intelligent-cloud-file-manager.git
+git clone https://github.com/anushkaverse/intelligent-cloud-file-manager.git
 cd intelligent-cloud-file-manager
 ````
 
@@ -147,16 +147,6 @@ intelligent-cloud-file-manager/
 └─ README.md            # Project documentation
 ```
 
----
-
-## 🔐 Security Notes
-
-* **Never commit `.env` files** or your AWS credentials.
-* The app **requires users to enter their own S3 credentials** to enable cloud uploads.
-* You can safely showcase the app without exposing your AWS keys.
-
----
-
 ## 📣 Future Improvements
 
 * Add more **AI-powered categorization** for specialized document types
@@ -174,6 +164,7 @@ This project is licensed under the **MIT License** – see [LICENSE](LICENSE) fo
 ## 👋 Author
 
 Developed by Anushka Sharma – happy file organizing!
+
 
 
 
